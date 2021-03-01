@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello, nice to meet you! 👋 🤵
+###My name is Saud.
 
-<!--
-**saudshk99/saudshk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
+
+
+
+
+
+
+💛 I love working with JavaScript and I like going to meetups and contribute to the dev community.
+
+💃 I have a channel on [youtube](https://www.youtube.com/channel/UCPstmU50y_HYvwm5gydpvOg)
